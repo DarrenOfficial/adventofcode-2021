@@ -1,3 +1,5 @@
 # Advent of Code
 
-## see how I did Advent of code in python
+seehow I did Advent of code in python.
+
+*github copilot gud* 👍
